@@ -33,3 +33,6 @@ for($i = $start; $i <= $end; $i++){
   if($i % 5 == 0)
    echo "$i"."\n";
   }
+  //課題5
+  $string= '<a href="https://tech-boost.jp/students/users">tech boost</a>';
+  echo $string;
